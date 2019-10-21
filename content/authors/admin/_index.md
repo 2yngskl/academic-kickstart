@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Young-suk Lee
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute for Basic Science
+  url: https://www.ibs.re.kr/eng.do
+- name: Seoul National University
+  url: "http://www.useoul.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m a computer person who studies the biodata generation process to develop both general and specific tools for interpretable biology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Biology
+- Functional Genomics
+- RNA Regulation
+- Integrative Data Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Princeton University
+    year: 2016
+  - course: MA in Computer Science
+    institution: Princeton University
+    year: 2014
+  - course: BSc in Computer Science
+    institution: The University of Texas at Austin
+    year: 2010
+  - course: BSc in Mathematics
+    institution: The University of Texas at Austin
+    year: 2010 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +50,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "#contact"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/yngskl
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=VCCq234AAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/yngskl/
+
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +81,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a postdoctoral fellow advised by [V. Narry Kim](http://www.narrykim.org/en/home) in the Center for RNA research at the Institute of Basic Science and Seoul National University, South Korea. Before that, I was a Ph.D. candidate in Computer Science at Princeton University with [Olga G. Troyanskaya](https://function.princeton.edu/). My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context emerging mechanistic insights of gene regulation from molecular biology experiments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of molecular and clinical data are now etching into the development of personalized medicine, and there is much to be hopeful. Yet, the lack of simple robust methods to interpret the data hinders our ability to fully extract fundamental insights in human genomics.
+
+[Download Curriculum Vitae](Curriculum_Vitae_youngsuklee_20191015.pdf) 
