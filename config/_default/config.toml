@@ -16,7 +16,7 @@ baseurl = "https://2yngskl.github.io/"
 copyright = "&copy; 2019 Young-suk Lee, PhD"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-150578361-1"
 
 ############################
 ## Advanced options below ##
