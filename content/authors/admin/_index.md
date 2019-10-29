@@ -23,10 +23,10 @@ organizations:
 bio: I’m a computer person who studies the biodata generation process to develop both general and specific tools for interpretable biology.
 
 interests:
-- Computational Biology
-- Functional Genomics
-- RNA Regulation
-- Integrative Data Analysis
+- computational biology
+- molecular biology
+- genomics
+- machine learning
 
 education:
   courses:
@@ -85,4 +85,4 @@ I’m a postdoctoral fellow advised by [V. Narry Kim](http://www.narrykim.org/en
 
 Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of molecular and clinical data are now etching into the development of personalized medicine, and there is much to be hopeful. Yet, the lack of simple robust methods to interpret the data hinders our ability to fully extract fundamental insights in human genomics.
 
-[Download Curriculum Vitae](/doc/Curriculum_Vitae_youngsuklee_20191015.pdf) 
+[Download Curriculum Vitae](/doc/Curriculum_Vitae_youngsuklee_20191022.pdf) 
