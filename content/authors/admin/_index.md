@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-I’m a postdoctoral fellow advised by [V. Narry Kim](http://www.narrykim.org/en/home) in the Center for RNA research at the Institute of Basic Science and Seoul National University, South Korea. Before that, I was a Ph.D. candidate in Computer Science at Princeton University with [Olga G. Troyanskaya](https://function.princeton.edu/). My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context emerging mechanistic insights of gene regulation from molecular biology experiments.
+I’m a postdoctoral fellow advised by [V. Narry Kim](http://www.narrykim.org/en/home) in the Center for RNA research at the Institute of Basic Science and Seoul National University, South Korea. Before that, I was a Ph.D. candidate in Computer Science at Princeton University with [Olga G. Troyanskaya](https://function.princeton.edu/). My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context of emerging mechanistic insights of gene regulation from molecular biology experiments.
 
 Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of molecular and clinical data are now etching into the development of personalized medicine, and there is much to be hopeful. Yet, the lack of simple robust methods to interpret the data hinders our ability to fully extract fundamental insights in human genomics.
 
