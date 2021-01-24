@@ -36,9 +36,9 @@ education:
   - course: PhD in Computer Science
     institution: Princeton University
     year: 2016
-  - course: MA in Computer Science
-    institution: Princeton University
-    year: 2014
+#  - course: MA in Computer Science
+#    institution: Princeton University
+#    year: 2014
   - course: BSc in Computer Science
     institution: The University of Texas at Austin
     year: 2010
@@ -79,13 +79,14 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
+# [Download Curriculum Vitae (2020.11)](/doc/Curriculum_Vitae_youngsuklee_current.pdf)
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am an Assistant Professor in the [Department of Bio and Brain Engineering](https://bioeng.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). Previously, I had the opportunity to work very closely with molecular biologists in [V. Narry Kim's lab](http://www.narrykim.org/) at [Seoul National University](https://en.snu.ac.kr/index.html). I received my Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/) working with [Olga G. Troyanskaya](https://function.princeton.edu/). Before that, I received my B.S. in [Computer Science](https://www.cs.utexas.edu/) and [Mathematics](https://www.ma.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/) where I was first introduced to computational biology from [Tandy Warnow](https://tandy.cs.illinois.edu/).
+I am an Assistant Professor in the [Department of Bio and Brain Engineering](https://bioeng.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). My projects use techniques in data science, applied statistics, and machine learning for the interpretation of large collections of biomedical data. Also, I enjoy collaborating with experimentalists to tackle fundamental questions in molecular biology by developing specific computational methods and algorithms.
 
-My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context of emerging mechanistic insights from molecular biology. Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of unorganized biological data are now shading light into the future of personalized medicine such as RNA therapeutics. Yet, the lack of simple robust methods to interpret this large collection of data hinders our ability to fully extract fundamental insights in human genomics.
+Previously, I had the opportunity to work very closely with molecular biologists in [V. Narry Kim's lab](http://www.narrykim.org/) at [Seoul National University](https://en.snu.ac.kr/index.html). I received my Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/) working with [Olga G. Troyanskaya](https://function.princeton.edu/). Before that, I received my B.S. in [Computer Science](https://www.cs.utexas.edu/) and [Mathematics](https://www.ma.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/) where I was first introduced to computational biology from [Tandy Warnow](https://tandy.cs.illinois.edu/).
 
-[Download Curriculum Vitae (2020.11)](/doc/Curriculum_Vitae_youngsuklee_current.pdf)
+If you are interested in working with me, please feel free to [contact me]("#contact") with a brief overview of your background and research interests.
