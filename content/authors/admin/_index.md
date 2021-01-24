@@ -10,23 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Basic Science
-  url: https://www.ibs.re.kr/eng.do
-- name: Seoul National University
-  url: "http://www.useoul.edu/"
+- name: Korea Advanced Institute of Science and Technology
+  url: https://www.kaist.ac.kr/en/
+#- name: Institute for Basic Science
+#  url: https://www.ibs.re.kr/eng.do
+#- name: Seoul National University
+#  url: "http://www.useoul.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a computer person who studies the biodata generation process to develop both general and specific tools for interpretable biology.
+bio: I develop computational methods and algorithms for interpretable biology.
 
 interests:
-- computational biology
-- molecular biology
-- genomics
-- machine learning
+- Bioinformatics
+- Functional genomics
+- Molecular biology
+- Probabilistic modeling
+- Single-nucleotide analysis
 
 education:
   courses:
@@ -41,7 +44,7 @@ education:
     year: 2010
   - course: BSc in Mathematics
     institution: The University of Texas at Austin
-    year: 2010 
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -73,7 +76,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -81,8 +84,8 @@ user_groups:
 - Visitors
 ---
 
-I’m a postdoctoral fellow advised by [V. Narry Kim](http://www.narrykim.org/en/home) in the Center for RNA research at the Institute of Basic Science and Seoul National University, South Korea. Before that, I was a Ph.D. candidate in Computer Science at Princeton University with [Olga G. Troyanskaya](https://function.princeton.edu/). My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context of emerging mechanistic insights of gene regulation from molecular biology experiments.
+I am an Assistant Professor in the [Department of Bio and Brain Engineering](https://bioeng.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). Previously, I had the opportunity to work very closely with molecular biologists in [V. Narry Kim's lab](http://www.narrykim.org/) at [Seoul National University](https://en.snu.ac.kr/index.html). I received my Ph.D. in [Computer Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/) working with [Olga G. Troyanskaya](https://function.princeton.edu/). Before that, I received my B.S. in [Computer Science](https://www.cs.utexas.edu/) and [Mathematics](https://www.ma.utexas.edu/) at [the University of Texas at Austin](https://www.utexas.edu/) where I was first introduced to computational biology from [Tandy Warnow](https://tandy.cs.illinois.edu/).
 
-Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of molecular and clinical data are now etching into the development of personalized medicine, and there is much to be hopeful. Yet, the lack of simple robust methods to interpret the data hinders our ability to fully extract fundamental insights in human genomics.
+My research interests lies in developing accurate and scalable strategies for the interpretation of biomedical data in the context of emerging mechanistic insights from molecular biology. Like many data scientists, I too believe that data is the medium to better understanding this complicated world. For me, that world is molecular biology because that is where I believe the most impactful insights and implications are hidden in this post-genomic era. Rigorous analyses of these collections of unorganized biological data are now shading light into the future of personalized medicine such as RNA therapeutics. Yet, the lack of simple robust methods to interpret this large collection of data hinders our ability to fully extract fundamental insights in human genomics.
 
-[Download Curriculum Vitae](/doc/Curriculum_Vitae_youngsuklee_current.pdf) 
+[Download Curriculum Vitae (2020.11)](/doc/Curriculum_Vitae_youngsuklee_current.pdf)
