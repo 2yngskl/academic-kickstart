@@ -7,9 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Cell*"
-links: 
+links:
   - name: "pubmed"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/28666115"
 doi: "10.1016/j.cell.2017.06.016"
 ---
-
