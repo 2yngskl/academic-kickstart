@@ -85,19 +85,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "youngl@snu.ac.kr"
-#phone = "888 888 88 88"
+email = "youngl@kaist.ac.kr"
+phone = "+82-42-350-7924"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1, Gwanak-ro, Gwanak-gu", city = "Seoul", postcode = "151-742", country = "South Korea", country_code = "KR"}
+address = {street = "1113 CMS(E16), 291 Daehak-ro, Yuseong-gu", city = "Daejeon", postcode = "34141", country = "South Korea", country_code = "KR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 504 and take the stairs to Office 531 on Floor 5"
+directions = "Enter Building E16 and take the elevator to Office 1113 on Floor 11"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
