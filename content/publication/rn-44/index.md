@@ -6,12 +6,11 @@ authors: ["**Y. S. Lee**", "A. Krishnan", "R. Oughtred", "J. Rust", "C. S. Chang
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Cell Syst*"
-links: 
+publication: "*Cell Systems*"
+links:
   - name: "pubmed"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/30685436"
   - name: "software"
     url: "http://ursahd.princeton.edu"
 doi: "10.1016/j.cels.2018.12.010"
 ---
-

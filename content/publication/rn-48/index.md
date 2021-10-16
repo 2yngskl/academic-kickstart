@@ -6,10 +6,9 @@ authors: ["W. Ju", "C. S. Greene", "F. Eichinger", "V. Nair", "J. B. Hodgin", "M
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Genome Res*"
-links: 
+publication: "*Genome Research*"
+links:
   - name: "pubmed"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/23950145"
 doi: "10.1101/gr.155697.113"
 ---
-

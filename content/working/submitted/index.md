@@ -1,9 +1,12 @@
 ---
-title: "N6-methyladenosine demethylase FTO orchestrates motile ciliogenesis by stabilizing FOXJ1 mRNA."
-authors: ["H. Kim\\*", "**Y. S. Lee**\\*", "S. M. Kim", "H. Choi", "J. W. Lee", "T. D. Kim", "V. N. Kim"]
-date: "2019-04-07T00:00:00Z"
+title: "Nonparametric Deconvolution Models"
+authors: ["A. Chaney", "A. Verma", "**Y. S. Lee**", "B. Engelhardt"]
+date: "2020-03-17"
 publication_types: ["3"]
-abstract: "Adenosine N6-methylation (m6A) is one of the most pervasive RNA modifications, and yet the physiological and pathological roles of m6A demethylation in embryogenesis and tissue homeostasis remains unclear. Here we report the m6A demethylase FTO (Fat Mass and Obesity associated) functions as a conserved regulator of motile ciliogenesis and ciliopathy by stabilizing FOXJ1 mRNA. Loss of Fto in mice produced strong asthma-like phenotypes upon allergen challenge owing to defective ciliated cells in the tracheal epithelium. Depletion of Fto in *Xenopus laevis* embryos also caused multiple embryonic ciliopathic phenotypes such as situs inversus and loss of multiciliated cells in the epidermis. Transcriptome analysis revealed a widespread downregulation of ciliary genes after Fto knockdown. We found that a single target, Foxj1, the master ciliary transcription factor, as the phenocritical target of the Fto-dependent m6A demethylation in motile ciliogenesis. Fto demethylates two m6A sites in the open reading frame of Foxj1 to stabilize the mRNA. In human bronchial epithelial cells, FTO depletion also led to FOXJ1 mRNA destabilization and a severe loss of ciliated cells with an increase of neighboring goblet cells, as in chronic inflammatory lung diseases such as asthma. Altogether, our results identify the FTO-FOXJ1 axis as a conserved key regulatory module in ciliogenesis and ciliopathy."
+abstract: "We describe nonparametric deconvolution models (NDMs), a family of Bayesian nonparametric models for collections of data in which each observation is the average over the features from heterogeneous particles. For example, these types of data are found in elections, where we observe precinct-level vote tallies (observations) of individual citizens' votes (particles) across each of the candidates or ballot measures (features), where each voter is part of a specific voter cohort or demographic (factor). Like the hierarchical Dirichlet process, NDMs rely on two tiers of Dirichlet processes to explain the data with an unknown number of latent factors; each observation is modeled as a weighted average of these latent factors. Unlike existing models, NDMs recover how factor distributions vary locally for each observation. This uniquely allows NDMs both to deconvolve each observation into its constituent factors, and also to describe how the factor distributions specific to each observation vary across observations and deviate from the corresponding global factors. We present variational inference techniques for this family of models and study its performance on simulated data and voting data from California. We show that including local factors improves estimates of global factors and provides a novel scaffold for exploring data."
+links:
+  - name: "arXiv"
+    url: "https://arxiv.org/abs/2003.07718"
+#doi: "10.1101/2021.05.20.444911"
 featured: false
 ---
-

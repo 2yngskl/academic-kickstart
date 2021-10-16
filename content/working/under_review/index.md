@@ -1,12 +1,12 @@
 ---
-title: "The SARS-CoV-2 RNA interactome."
-authors: ["S. Lee\\*", "**Y. S. Lee**\\*", "Y. Choi", "A. Son", "Y. Park", "K.-M. Lee", "J. Kim", "J.-S. Kim", "V. N. Kim"]
-date: "2020-11-02"
-publication_types: ["2"]
-abstract: "SARS-CoV-2 is an RNA virus whose success as a pathogen relies on its ability to repurpose host RNA-binding proteins (RBPs) to form its own RNA interactome. Here, we developed and applied a robust ribonucleoprotein capture protocol to uncover the SARS-CoV-2 RNA interactome. We report 109 host factors that directly bind to SARS-CoV-2 RNAs including general antiviral factors such as ZC3HAV1, TRIM25, and PARP12. Applying RNP capture on another coronavirus HCoV-OC43 revealed evolutionarily conserved interactions between viral RNAs and host proteins. Network and transcriptome analyses delineated antiviral RBPs stimulated by JAK-STAT signaling and proviral RBPs responsible for hijacking multiple steps of the mRNA life cycle. By knockdown experiments, we further found that these viral-RNA-interacting RBPs act against or in favor of SARS-CoV-2. Overall, this study provides a comprehensive list of RBPs regulating coronaviral replication and opens new avenues for therapeutic interventions."
+title: "Crosstalk between Fat Mass and Obesity-related (FTO) and multiple WNT signaling pathways"
+authors: ["H. Kim","S. Jang","**Y. S. Lee**"]
+date: "2021-05-20"
+publication_types: ["3"]
+abstract: "Fat Mass and Obesity-related (FTO) gene is associated with a diverse set of human diseases. Yet, the functional landscape of FTO remains largely unknown, most likely owing to its wide range of mechanistic roles and cell-type-specific targets. Here, we discover the intricate role of FTO in multiple WNT signaling pathways. Re-analyses of public data identified the bifurcation of canonical and noncanonical WNT pathways as the major role of FTO. In FTO-depleted cells, we find that the canonical WNT/β-Catenin signaling is inhibited in a non-cell autonomous manner via the upregulation of DKK1. Simultaneously, this upregulation of DKK1 promotes cell migration via activating the noncanonical WNT/PCP pathway. Unexpectedly, we also find that the canonical WNT/STOP signaling induces the accumulation of cytoplasmic FTO proteins. This subsequently leads to the stabilization of mRNAs via RNA demethylation, revealing a previously uncharacterized mode of WNT action in RNA regulation. Altogether, this study places the functional context of FTO at the branching point of multiple WNT signaling pathways which may explain the wide spectrum of FTO functions."
 links:
   - name: "biorxiv"
-    url: "https://www.biorxiv.org/content/10.1101/2020.11.02.364497v1"
-doi: "10.1101/2020.11.02.364497"
+    url: "https://www.biorxiv.org/content/10.1101/2021.05.20.444911v1"
+doi: "10.1101/2021.05.20.444911"
 featured: false
 ---

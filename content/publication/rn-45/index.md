@@ -6,12 +6,11 @@ authors: ["**Y. S. Lee**", "A. K. Wong", "A. Tadych", "B. M. Hartmann", "C. Y. P
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Nat Methods*"
-links: 
+publication: "*Nature Methods*"
+links:
  - name: "pubmed"
    url: "https://www.ncbi.nlm.nih.gov/pubmed/30478325"
  - name: "software"
    url: "http://yeti.princeton.edu"
 doi: "10.1038/s41592-018-0218-5"
 ---
-

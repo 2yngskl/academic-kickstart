@@ -6,10 +6,9 @@ authors: ["S. C. Kwon", "S. C. Baek", "Y. G. Choi", "J. Yang", "**Y. S. Lee**", 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Mol Cell*"
-links: 
+publication: "*Molecular Cell*"
+links:
   - name: "pubmed"
     url: "https://www.ncbi.nlm.nih.gov/pubmed/30554947"
 doi: "10.1016/j.molcel.2018.11.005"
 ---
-
