@@ -11,17 +11,15 @@ design:
   columns: '2'
 ---
 
-- Probabilistic modeling at single-nucleotide resolution
-  - Genetic variants of the non-coding genome
-  - Nucleotide modifications
-  - Rational design of biomolecules
-
-- Reconstructing the gene regulatory network
-  - Posttranscriptional gene regulation
-  - Integrative genomics
-  - Complex networks
-
-- Bioinformatics algorithms
-  - Single-cell analysis
-  - Nanopore sequencing
-  - Mass spectrometry
+## Probabilistic modeling at single-nucleotide resolution
+- Genetic variants of the non-coding genome
+- Nucleotide modifications
+- Rational design of biomolecules
+## Reconstructing the gene regulatory network
+- Posttranscriptional gene regulation
+- Integrative genomics
+- Complex networks
+## Bioinformatics algorithms
+- Single-cell analysis
+- Nanopore sequencing
+- Mass spectrometry
