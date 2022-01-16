@@ -13,7 +13,8 @@ design:
 
 Here is the list of places I'd like to get my *specific* cup of coffee.
 - KAIST (work in progress)
-  - Café Dream : Latte + extra shot
+  - Café Dream : Ice Americano + extra shot
+  - [흥커피로스터스](https://www.instagram.com/heungcoffeeroasters/) : Latte + Scone
   - [Coffee1011(커피1011로스팅랩)](https://www.facebook.com/Coffee1011-Roasting-Company-1005742132839535/) : Americano
   - [Intradorn(인트라던)](https://www.instagram.com/intradorn_/) : Adorn coffee
 - Seoul National University

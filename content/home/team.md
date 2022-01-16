@@ -12,10 +12,15 @@ design:
 ---
 
 ## Graduate students
-- Hyeonggon Cho (BSc in Pharmacy @ Seoul National University). Fall 2021
-- Jongmin Lim (BSc in Molecular Genetics @ University of Toronto). Fall 2021
+- Hyeonggon Cho (Fall 2021)
+  - BSc in Pharmacy @ Seoul National University
+  - [gudrhs6576 "at" kaist.ac.kr](mailto:gudrhs6576@kaist.ac.kr)
+- Jongmin Lim (Fall 2021)
+  - BSc in Molecular Genetics @ University of Toronto
+  - [jmlim2 "at" kaist.ac.kr](mailto:jmlim2@kaist.ac.kr)
 
 ## Undergraduates
+- 박해준 (Computer Science @ KAIST). Winter 2022
 - Azamat Armanuly (Biological Sciences @ KAIST). Fall 2021
 - Benedict Fabia (Undeclared @ KAIST). Fall 2021
 - 정다현 (Biological Sciences @ KAIST). Summer 2021
