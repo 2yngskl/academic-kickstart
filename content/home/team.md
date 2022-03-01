@@ -20,6 +20,8 @@ design:
   - [jmlim2 "at" kaist.ac.kr](mailto:jmlim2@kaist.ac.kr)
 
 ## Undergraduates
+- 김근희 (Biological Sciences @ KAIST). Spring 2022
+- 김민주 (Bio and Brain Engineering @ KAIST). Spring 2022
 - 박해준 (Computer Science @ KAIST). Winter 2022
 - Azamat Armanuly (Biological Sciences @ KAIST). Fall 2021
 - Benedict Fabia (Undeclared @ KAIST). Fall 2021
