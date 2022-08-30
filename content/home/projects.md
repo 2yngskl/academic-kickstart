@@ -16,10 +16,10 @@ design:
 - Nucleotide modifications
 - Rational design of biomolecules
 ## Reconstructing the gene regulatory network
-- Posttranscriptional gene regulation
 - Integrative genomics
 - Complex networks
+- RNA regulation
 ## Bioinformatics algorithms
 - Single-cell analysis
-- Nanopore sequencing
+- Long-read sequencing
 - Mass spectrometry
