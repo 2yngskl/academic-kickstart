@@ -23,7 +23,7 @@ links:
   - name: "pubmed"
     url: "https://pubmed.ncbi.nlm.nih.gov/36369338/"
 
-abstract: ""
+abstract: "Small, compact genomes confer a selective advantage to viruses, yet human cytomegalovirus (HCMV) expresses the long non-coding RNAs (lncRNAs); RNA1.2, RNA2.7, RNA4.9, and RNA5.0. Little is known about the function of these lncRNAs in the virus life cycle. Here, we dissected the functional and molecular landscape of HCMV lncRNAs. We found that HCMV lncRNAs occupy ~ 30% and 50-60% of total and poly(A)+viral transcriptome, respectively, throughout virus life cycle. RNA1.2, RNA2.7, and RNA4.9, the three abundantly expressed lncRNAs, appear to be essential in all infection states. Among these three lncRNAs, depletion of RNA2.7 and RNA4.9 results in the greatest defect in maintaining latent reservoir and promoting lytic replication, respectively. Moreover, we delineated the global post-transcriptional nature of HCMV lncRNAs by nanopore direct RNA sequencing and interactome analysis. We revealed that the lncRNAs are modified with N6-methyladenosine (m6A) and interact with m6A readers in all infection states. In-depth analysis demonstrated that m6A machineries stabilize HCMV lncRNAs, which could account for the overwhelming abundance of viral lncRNAs. Our study lays the groundwork for understanding the viral lncRNA-mediated regulation of host-virus interaction throughout the HCMV life cycle."
 
 # Summary. An optional shortened abstract.
 summary: ""
