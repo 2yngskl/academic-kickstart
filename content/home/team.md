@@ -13,7 +13,7 @@ design:
 
 ## Graduate students
 - Michelle A. Sunartha (Fall 2023)
-  - BSc in Computer Science @ National Taiwan University of Science and Technology
+  - BSc in Computer Science @ TaiwanTech
   - [michellesoen "at" kaist.ac.kr](mailto:michellesoen@kaist.ac.kr)
 - Daniil Melnichenko (Fall 2023)
   - BSc in Chemistry @ KAIST
