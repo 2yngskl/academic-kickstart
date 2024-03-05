@@ -22,7 +22,7 @@ organizations:
 #  url: "http://www.useoul.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I develop computational methods and algorithms for interpretable biology.
+bio: Developing computational tools and algorithms for interpretable biology.
 
 interests:
 - Bioinformatics
