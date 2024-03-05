@@ -3,7 +3,7 @@ title: "Near-optimal variant calling by pseudo-database construction"
 authors: [ "**YS Lee**\\*\\#","S Kim\\*","**H Lee**", "CY Lee\\#"]
 date: "2021-09-20"
 publication_types: ["2"]
-abstract: "*Under review*"
+abstract: "*Under Review*"
 links:
 #  - name: "arXiv"
 #    url: "https://arxiv.org/abs/2003.07718"
