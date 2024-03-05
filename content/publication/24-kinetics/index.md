@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Deadenylation kinetics of mixed poly (A) tails at single-nucleotide resolution"
-authors: ["**Lee YS**\\*\\#, Levdansky Y\\*, Jung Y, Kim VN\\#, Valkov E\\#"]
+authors: ["**Lee YS**\\*\\#", "Levdansky Y\\*", "Jung Y", "Kim VN\\#", "Valkov E\\#"]
 date: "2024-02-19"
 doi: "10.1038/s41594-023-01187-1"
 

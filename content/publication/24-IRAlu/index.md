@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Alternative polyadenylation determines the functional landscape of inverted Alu repeats"
-authors: ["Ku J\\*, Lee K\\*, Ku D, Kim S, Lee J, Bang H, Kim N, Do H, **Lee H**, Lim C, Han J, **Lee YS**\\#, Kim Y\\#"]
+authors: ["Ku J\\*", "Lee K\\*", "Ku D", "Kim S", "Lee J", "Bang H", "Kim N", "Do H", "**Lee H**", "Lim C", "Han J", "**Lee YS**\\#", "Kim Y\\#"]
 date: "2024-01-30"
 doi: "10.1016/j.molcel.2024.01.008"
 

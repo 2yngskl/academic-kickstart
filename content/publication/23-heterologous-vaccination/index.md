@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Heterologous vaccination utilizing viral vector and protein platforms confers complete protection against SFTSV"
-authors: ["Kim JY\\*, Jeon K\\*, Hong JJ\\*, Park SI\\*, **Cho H**\\*, Park HJ\\*, Kwak HW, Park HJ, Bang YJ, Lee YS, Bae SH, Kim SH, Hwang KA, Jung DI, Cho SH, Seo SH, Kim G, Oh H, Lee HY, Kim, KH, Lim HY, Jeon P, Lee JY, Chung J, Lee SM, Ko HL, Song M, Cho NH\\#, **Lee YS**\\#, Hong SH\\#, Nam JH\\#"]
+authors: ["Kim JY\\*", "Jeon K\\*", "Hong JJ\\*", "Park SI\\*", "**Cho H**\\*", "Park HJ\\*", "Kwak HW", "Park HJ", "Bang YJ", "Lee YS", "Bae SH", "Kim SH", "Hwang KA", "Jung DI", "Cho SH", "Seo SH", "Kim G", "Oh H", "Lee HY", "Kim KH", "Lim HY", "Jeon P", "Lee JY", "Chung J", "Lee SM", "Ko HL", "Song M", "Cho NH\\#", "**Lee YS**\\#", "Hong SH\\#", "Nam JH\\#"]
 
 date: "2023-05-20"
 doi: "10.1038/s41598-023-35328-9"

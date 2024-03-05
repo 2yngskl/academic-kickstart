@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mathematical Modeling of mRNA Poly (A) Tail Shortening Process"
-authors: ["**Fabia B**, **Kim M**, **Lim J**, **Lee YS**\\#"]
+authors: ["**Fabia B**", "**Kim M**", "**Lim J**", "**Lee YS**\\#"]
 date: "2023-10-13"
 doi: "10.1007/978-1-0716-3481-3_18"
 
