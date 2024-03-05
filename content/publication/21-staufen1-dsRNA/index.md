@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Noncanonical immune response to the inhibition of DNA methylation by Staufen1 via stabilization of endogenous retrovirus RNAs"
-authors: ["Y. Ku\\*", "J.-H. Park\\*", "R. Cho\\*", "Y. Lee", "H.-M. Park", "M.A Kim", "K. Hur", "S. Y. Byun", "J. Liu", "**Y. S. Lee**", "D. Shum", "D.-Y. Shin", "Y. Koh", "J.-Y. Cho", "S.-S. Yoon", "J. Hong", "Y. Kim"]
+authors: ["Y. Ku\\*", "J.-H. Park\\*", "R. Cho\\*", "Y. Lee", "H.-M. Park", "M.A Kim", "K. Hur", "S. Y. Byun", "J. Liu", "**Y. S. Lee**", "D. Shum", "D.-Y. Shin", "Y. Koh", "J.-Y. Cho", "S.-S. Yoon", "J. Hong\\#", "Y. Kim\\#"]
 date: "2021-03-30"
 doi: "10.1073/pnas.2016289118"
 

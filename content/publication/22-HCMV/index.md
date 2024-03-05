@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Functional and molecular dissection of HCMV long non-coding RNAs"
-authors: ["S. Lee, H. Kim, A. Hong, J. Song, S. Lee, M. Kim, S. Hwang, D. Jeong, J. Kim, A. Son, **Y. S. Lee**, V N. Kim, J. Kim, H. Chang\\*, K. Ahn\\*"]
+authors: ["S. Lee, H. Kim, A. Hong, J. Song, S. Lee, M. Kim, S. Hwang, D. Jeong, J. Kim, A. Son, **Y. S. Lee**, V N. Kim, J. Kim, H. Chang\\#, K. Ahn\\#"]
 date: "2022-11-11"
 doi: "10.1038/s41598-022-23317-3"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Viral hijacking of the TENT4–ZCCHC14 complex protects viral RNAs via mixed tailing"
-authors: ["D. Kim\\*", "**Y. S. Lee**\\*", "S. J. Jung\\*", "J. Yeo\\*", "J. J. Seo", "Y. Y. Lee", "J. Lim", "H. Chang", "J. Song", "J. Yang", "K. Ahn", "G. Jung" , "V. N. Kim"]
+authors: ["D. Kim\\*", "**Y. S. Lee**\\*", "S. J. Jung\\*", "J. Yeo\\*", "J. J. Seo", "Y. Y. Lee", "J. Lim", "H. Chang", "J. Song", "J. Yang", "K. Ahn", "G. Jung" , "V. N. Kim\\#"]
 date: "2020-05-25"
 doi: "10.1038/s41594-020-0427-3"
 

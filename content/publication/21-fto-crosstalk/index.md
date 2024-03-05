@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Crosstalk between Fat Mass and Obesity-related (FTO) and multiple WNT signaling pathways"
-authors: ["H. Kim\\*", "S. Jang", "**Y. S. Lee\\***"]
+authors: ["H. Kim\\#", "S. Jang", "**Y. S. Lee**\\#"]
 date: "2021-05-20"
 doi: "10.1101/2021.05.20.444911"
 

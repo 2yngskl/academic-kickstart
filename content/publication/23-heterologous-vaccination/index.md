@@ -1,10 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The SARS-CoV-2 RNA interactome"
-authors: ["S. Lee\\*", "**Y. S. Lee\\***", "Y. Choi", "A. Son", "Y. Park", "K.-M. Lee", "J. Kim", "J.-S. Kim", "V. N. Kim\\#"]
-date: "2021-04-27"
-doi: "10.1016/j.molcel.2021.04.022"
+title: "Heterologous vaccination utilizing viral vector and protein platforms confers complete protection against SFTSV"
+authors: ["Kim JY\\*, Jeon K\\*, Hong JJ\\*, Park SI\\*, **Cho H**\\*, Park HJ\\*, Kwak HW, Park HJ, Bang YJ, Lee YS, Bae SH, Kim SH, Hwang KA, Jung DI, Cho SH, Seo SH, Kim G, Oh H, Lee HY, Kim, KH, Lim HY, Jeon P, Lee JY, Chung J, Lee SM, Ko HL, Song M, Cho NH\\#, **Lee YS**\\#, Hong SH\\#, Nam JH\\#"]
+
+date: "2023-05-20"
+doi: "10.1038/s41598-023-35328-9"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2021-01-24T22:43:11+09:00
@@ -17,19 +18,19 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 
-publication: "*Molecular Cell*"
+publication: "*Scientific Reports*"
 publication_short: ""
 links:
   - name: "pubmed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/33989516"
+    url: "https://pubmed.ncbi.nlm.nih.gov/37210393/"
 
-abstract: ""
+abstract: "Severe fever with thrombocytopenia syndrome virus was first discovered in 2009 as the causative agent of severe fever with thrombocytopenia syndrome. Despite its potential threat to public health, no prophylactic vaccine is yet available. This study developed a heterologous prime-boost strategy comprising priming with recombinant replication-deficient human adenovirus type 5 (rAd5) expressing the surface glycoprotein, Gn, and boosting with Gn protein. This vaccination regimen induced balanced Th1/Th2 immune responses and resulted in potent humoral and T cell-mediated responses in mice. It elicited high neutralizing antibody titers in both mice and non-human primates. Transcriptome analysis revealed that rAd5 and Gn proteins induced adaptive and innate immune pathways, respectively. This study provides immunological and mechanistic insight into this heterologous regimen and paves the way for future strategies against emerging infectious diseases."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["SFTSV"]
+categories: ["Molecular biology"]
 featured: false
 
 # Custom links (optional).

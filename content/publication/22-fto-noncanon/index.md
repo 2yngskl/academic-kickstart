@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The m6A(m)-independent role of FTO in regulating WNT signaling pathways"
-authors: ["H. Kim\\*", "S. Jang", "**Y. S. Lee\\***"]
+authors: ["H. Kim\\#", "S. Jang", "**Y. S. Lee**\\#"]
 date: "2022-02-15"
 doi: "10.26508/lsa.202101250"
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Short poly (A) tails are protected from deadenylation by the LARP1–PABP complex"
-authors: ["J. Park, M. Kim, H. Yi, K. Baeg, Y. Choi, **Y. S. Lee**, J. Lim, V N. Kim\\*"]
+authors: ["J. Park, M. Kim, H. Yi, K. Baeg, Y. Choi, **Y. S. Lee**, J. Lim, V N. Kim\\#"]
 date: "2023-03-01"
 doi: "10.1038/s41594-023-00930-y"
 

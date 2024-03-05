@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "MS1-Level Proteome Quantification Platform Allowing Maximally Increased Multiplexity for SILAC and In Vitro Chemical Labeling"
-authors: ["Y. Choi\\*", "K. Jeong\\*", "S. Shin\\*", "J. W. Lee\\*", "**Y. S. Lee**", "S. Kim", "S. A. Kim", "J. Jung", "K. P. Kim", "V. N. Kim", "J.-S. Kim"]
+authors: ["Y. Choi\\*", "K. Jeong\\*", "S. Shin\\*", "J. W. Lee\\*", "**Y. S. Lee**", "S. Kim", "S. A. Kim", "J. Jung", "K. P. Kim", "V. N. Kim\\#", "J.-S. Kim\\#"]
 date: 2020-03-13
 doi: "10.1021/acs.analchem.9b05148"
 

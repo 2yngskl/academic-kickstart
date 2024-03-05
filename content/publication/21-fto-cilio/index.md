@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "RNA demethylation by FTO stabilizes the FOXJ1 mRNA for proper motile ciliogenesis"
-authors: ["H. Kim\\*", "**Y. S. Lee\\***", "S.-M. Kim", "S. Jang", "H. Choi", "J.-W. Lee", "T.-D. Kim", "V. N. Kim"]
+authors: ["H. Kim\\*\\#", "**Y. S. Lee\\***", "S.-M. Kim", "S. Jang", "H. Choi", "J.-W. Lee", "T.-D. Kim\\#", "V. N. Kim\\#"]
 date: "2021-04-19"
 doi: "10.1016/j.devcel.2021.03.006"
 
