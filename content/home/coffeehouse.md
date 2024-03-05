@@ -12,7 +12,8 @@ design:
 ---
 
 Here is the list of places I'd like to get my *specific* cup of coffee.
-- Daejeon, South Korea (work in progress)
+- Daejeon, South Korea
+  - Coffee Office(커피오피스) : Hand Drip
   - [Intradorn(인트라던)](https://www.instagram.com/intradorn_/) : Adorn coffee
   - Voila Café(브알라) : Sea Salt Americano
 - KAIST

@@ -22,6 +22,10 @@ publication_short: ""
 links:
   - name: "pubmed"
     url: "https://pubmed.ncbi.nlm.nih.gov/38374449/"
+  - name: "Press"
+    url: "https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=35370"
+  - name: "한빛사 인터뷰"
+    url: "https://www.ibric.org/bric/hanbitsa/han-interview.do?mode=view&id=92538&authorId=29300#!/list"
 
 abstract: "Shortening of messenger RNA poly(A) tails, or deadenylation, is a rate-limiting step in mRNA decay and is highly regulated during gene expression. The incorporation of non-adenosines in poly(A) tails, or 'mixed tailing', has been observed in vertebrates and viruses. Here, to quantitate the effect of mixed tails, we mathematically modeled deadenylation reactions at single-nucleotide resolution using an in vitro deadenylation system reconstituted with the complete human CCR4-NOT complex. Applying this model, we assessed the disrupting impact of single guanosine, uridine or cytosine to be equivalent to approximately 6, 8 or 11 adenosines, respectively. CCR4-NOT stalls at the 0, -1 and -2 positions relative to the non-adenosine residue. CAF1 and CCR4 enzyme subunits commonly prefer adenosine but exhibit distinct sequence selectivities and stalling positions. Our study provides an analytical framework to monitor deadenylation and reveals the molecular basis of tail sequence-dependent regulation of mRNA stability."
 
