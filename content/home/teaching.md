@@ -11,7 +11,10 @@ design:
   columns: '2'
 ---
 
-The advent of massive open online courses (MOOCs) has changed the way we look at education and further questioned the fundamental role of instructors. Simple transfer of knowledge is no longer the rate limiting step for educating the next generation, but knowledge is democratized to anyone with a computer, tablet or mobile phone with a connection to the internet. I personally have benefited tremendously from such efforts, yet MOOCs have forced me to reassess my pedagogical ideals. This led me to the three foundations of instruction and mentorship: construction, selection, and interaction. All of which are the basis of the following courses shared below.
+> I never teach my pupils; I only attempt to provide the conditions in which they can learn.  
+-- Albert Einstein
+
+The advent of massive open online courses has changed the way we look at education and challenges traditional views on the role of instructors. Simple transfer of knowledge is no longer the rate limiting step for educating the next generation. Instead, knowledge is now accessible to anyone with a computer, tablet or mobile phone with a connection to the internet. I've also benefited tremendously from these initiatives, but at the same time forced me to reevaluate my pedagogical values. This led me to my three foundations of instruction and mentorship: construction, selection, and interaction. All of which are the basis of the following courses shared below.
 
 - Spring 2024: BiS437 Bio-Data Engineering
 - Fall 2023: EB502 Programming for Engineering Biology

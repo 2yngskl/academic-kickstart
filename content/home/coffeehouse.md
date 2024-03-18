@@ -11,6 +11,9 @@ design:
   columns: '2'
 ---
 
+> I confess I do not know why, but looking at the stars always makes me dream.  
+-- Vincent Van Gogh
+
 Here is the list of places I'd like to get my *specific* cup of coffee.
 - Daejeon, South Korea
   - Coffee Office(커피오피스) : Hand Drip

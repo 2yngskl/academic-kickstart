@@ -11,6 +11,9 @@ design:
   columns: '2'
 ---
 
+> We may have all come on different ships, but we're in the same boat now.  
+-- Martin Luther King, Jr.
+
 ## Graduate students
 - Sunghyun Ha (Spring 2024)
   - BSc in Life Science @ Korea University

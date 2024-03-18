@@ -65,3 +65,6 @@ subtitle = "*equal contributions #corresponding author"
  # CSS class.
  css_class = ""
 +++
+
+> The essence of strategy is choosing what not to do.  
+-- Michael Porter

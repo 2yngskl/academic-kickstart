@@ -11,6 +11,9 @@ design:
   columns: '2'
 ---
 
-Biology is not random, just largely unknown. There are almost an infinite amount of possible interactions, but only a sparse handful constitutes a complex living system. To narrow the search space, massive amounts of biological data are being generated to capture snapshots or snippets of such living systems. In this effort, bioinformatics algorithms play a key role in interpreting these large datasets and enable the reconstruction of underlying biological principles both at the molecular and system level.
+> The science of today is the technology of tomorrow.  
+-- Barbara McClintock
 
-The Young Laboratory at KAIST draws upon ideas from data science, applied statistics, and machine learning to tackle fundamental questions in quantitative biology and biomedical engineering. Our algorithms are optimized according to a specific data generation process which means we often ask for copies of experimental protocols and lab notes from our collaborators. In particular, we are interested in (1) decoding the human genome by developing probabilistic models at single-nucleotide resolution and (2) encoding those molecular insights within the context of large biological networks.
+Biology is not random, just largely unknown. There are almost an *infinite* amount of possible interactions, yet only a sparse handful constitutes a complex living system. To narrow down this vast search space, massive amounts of biological data are being generated to capture snapshots or snippets of the functional genome, multicellular heterogeneity, and complex human diseases. In this effort, bioinformatics algorithms play a key role in interpreting these large data collections and elucidating the underlying principles, both at the molecular and system levels.
+
+The Young Laboratory at KAIST draws upon ideas from data science, applied statistics, and machine learning to tackle fundamental questions in quantitative biology. We incorporate *problem-specific* knowledge into the behavior of our algorithms to address the challenge of underspecification in modern machine learning methods. One of our primary objectives is to complete the human gene regulatory network by utilizing these problem-specific algorithms. Specifically, we aim to map the missing axes of functional RNAs in terms of RNA modification, RNA structure and Protein-RNA interaction.
