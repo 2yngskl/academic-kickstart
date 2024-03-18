@@ -16,10 +16,14 @@ Only 2% of the human genome consists of protein-coding genes. The remaining 98% 
 
 To tackle this, we take advantage of biological data generated from breakthroughs in chemical biology and bioengineering such as short/long-read sequencing, oligo synthesis, chemical probing, and click chemistry. The technology-specific computational tools built from our lab offer the means towards integrative genomics and functional interpretation at single-nucleotide resolution across transcription, processing, modification, translation, decay, and other stages of the RNA life cycle.
 
+---
+
 ## No free lunch for emerging high-throughput technologies
 It’s an exciting time to work in modern biology and bioengineering. Innovations in artificial intelligence and high-throughput techniques provide new strategies to understand complex cellular processes and investigate the molecular mechanisms underlying human diseases. For example, single-cell sequencing and spatial transcriptomics have shed light into the cellular heterogeneity of human physiology and tissue complexity in organismal development, immunology, and cancer biology.
 
 The algorithmic task here is to address inherent computational challenges in each high-throughput technology and incorporate biology-specific knowledge into the design of computational tools, statistical models, and neural architectures. We compare our tailored solutions with general-purpose machine learning methods, which also serve as case studies in computational biology of the “no free lunch” (NFL) theorem of David Wolpert and William Macready.
+
+---
 
 ## Combinatorial optimization in translational bioengineering
 RNA therapeutics, genome editing, and organoids represent just a few examples of biomaterial applications that are changing the way we solve biology. However, these endeavors are often combinatorial optimization problems with near-infinite potential but intractable tasks with brute-force solutions. For example in RNA engineering, there are more than 10{{< super "60" >}} possible 100-nucleotide sequences with varying degrees of functionality. To put this into perspective, the estimated number of atoms on Earth is approximately 10{{< super "50" >}} atoms, indicating the limit of solely relying on high-throughput screening for RNA design and optimization.
