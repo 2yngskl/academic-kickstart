@@ -15,13 +15,19 @@ design:
 -- Martin Luther King, Jr.
 
 ## Graduate students
+- Melissa LIaiqui-Condori (Fall 2024)
+  - MS in Medical Science and Engineering @ KAIST
+  - Medical Doctor @ Catholic University of Santa María
+  - [mel.llc "at" kaist.ac.kr](mailto:mel.llc@kaist.ac.kr)
 - Sunghyun Ha (Spring 2024)
+  - BSc in Statistics @ Korea University
   - BSc in Life Science @ Korea University
   - [ha6411 "at" kaist.ac.kr](mailto:ha6411@kaist.ac.kr)
 - Michelle A. Sunartha (Fall 2023)
   - BSc in Computer Science @ TaiwanTech
   - [michellesoen "at" kaist.ac.kr](mailto:michellesoen@kaist.ac.kr)
 - Daniil Melnichenko (Fall 2023)
+  - BSc in Bio and Brain Engineering @ KAIST
   - BSc in Chemistry @ KAIST
   - [dan.mb "at" kaist.ac.kr](mailto:dan.mb@kaist.ac.kr)
 - Hyunju Kim (Fall 2023)
@@ -46,16 +52,18 @@ design:
   - BSc in Molecular Genetics @ University of Toronto
   - [jmlim2 "at" kaist.ac.kr](mailto:jmlim2@kaist.ac.kr)
 
-## Research Assistant
-- Melissa LIaiqui-Condori (Spring 2024)
-  - MS in Medical Science and Engineering @ KAIST
-  - Medical Doctor @ Catholic University of Santa María
-  - [mel.llc "at" kaist.ac.kr](mailto:mel.llc@kaist.ac.kr)
+## Administrative Assistant
+- Jae-bok Cho (2023 - )
+  - [jbcho "at" kaist.ac.kr](mailto:jbcho@kaist.ac.kr)
 
 ## Undergraduates
+- 백하은 (Summer 2024) Biomedical Engineering @ UNIST
+- 민재원 (Summer 2024) Biomedical Science @ Catholic University
+- 오인혁 (Summer 2024) Bio and Brain Engineering @ KAIST
+- 김주현 (Summer 2024) Computer Science @ KAIST
 - Baktynur Azhybaev (Winter 2023) Bio and Brain Engineering @ KAIST
 - 양성철 (Winter 2023) Biotechnology @ Yonsei University
-- 성달경 (Winter 2023) Biological Sciences @ SNU
+- 성달경 (Winter 2023) Biological Sciences @ Seoul National University
 - 하성현 (Summer 2023) Life Science @ Korea University
 - Aleksandra J. Wisniewska (Summer 2023) Bio and Brain Engineering @ KAIST
 - 김민정 (Winter 2022) Genetic Engineering @ Kyung Hee University
