@@ -16,6 +16,10 @@ design:
 
 The advent of massive open online courses has changed the way we look at education and challenges traditional views on the role of instructors. Simple transfer of knowledge is no longer the rate limiting step for educating the next generation. Instead, knowledge is now accessible to anyone with a computer, tablet or mobile phone with a connection to the internet. I've also benefited tremendously from these initiatives, but at the same time forced me to reevaluate my pedagogical values. This led me to my three foundations of instruction and mentorship: construction, selection, and interaction. All of which are the basis of the following courses shared below.
 
+- Spring 2025: [BiS801 AI Fundamentals in Biology and Health Technology](https://online.kaist.ac.kr/courses/67eb75b8f2b9c3c8e90faba8)
+- Spring 2025: BiS437 Bio-Data Engineering
+- Fall 2024: EB502 Programming for Engineering Biology
+- Fall 2024: BiS232 Bio-Data Structures
 - Spring 2024: BiS437 Bio-Data Engineering
 - Fall 2023: EB502 Programming for Engineering Biology
 - Fall 2023: BiS232 Bio-Data Structures
