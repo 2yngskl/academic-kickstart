@@ -1,7 +1,7 @@
 ---
 title: "Near-optimal variant calling by pseudo-database construction"
-authors: [ "**YS Lee**\\*\\#","S Kim\\*","**H Lee**", "CY Lee\\#"]
-date: "2021-09-20"
+authors: ["**H Lee**\\*","S Kim\\*", "**MA Sunartha**", "CY Lee\\#","**YS Lee**\\#"]
+date: "2024-09-00"
 publication_types: ["2"]
 abstract: "*Under Review*"
 links:
