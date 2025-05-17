@@ -56,7 +56,8 @@ design:
   - [susu1010 "at" kaist.ac.kr](mailto:susu1010@kaist.ac.kr)
 - Hyeonjung Lee (Fall 2022)
   - MS in Life Sciences @ POSTECH
-  - BSc in Biomedical Sciences and Bioengineering @ UNIST
+  - BSc in Biomedical Science @ UNIST
+  - BSc in Bioengineering @ UNIST
   - [hyeon "at" kaist.ac.kr](mailto:hyeon@kaist.ac.kr)
 - Hyeonggon Cho (Fall 2021)
   - MS in Bio and Brain Engineering @ KAIST
@@ -76,7 +77,7 @@ design:
 - 신국희 (Winter 2024) Freshman @ KAIST
 - Nel Zandre (Winter 2024) Bio and Brain Engineering @ KAIST
 - 백하은 (Summer 2024) Biomedical Engineering @ UNIST
-- 민재원 (Summer 2024) Biomedical Science @ Catholic University
+- 민채원 (Summer 2024) Biomedical Science @ Catholic University
 - 오인혁 (Summer 2024) Bio and Brain Engineering @ KAIST
 - 김주현 (Summer 2024) Computer Science @ KAIST
 - Baktynur Azhybaev (Winter 2023) Bio and Brain Engineering @ KAIST
